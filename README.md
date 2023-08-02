@@ -1,5 +1,15 @@
-### Hi there 👋
-
+<h1 align="center">Hello World</h1>
+<div align="center"><img src="https://thumbs.gfycat.com/PepperyGrizzledClownanemonefish-max-1mb.gif"></img></div>
+<p></p>
+<p align="center"> 
+  - 👋 Hi,I’m Rahul Shah.
+</p>
+<p align="center"> 
+  - 🌱 I’m currently pursuing B.E. in Computer Engineering at L.J.I.E.T. College.
+</p>  
+<p align="center"> 
+  - 📫 How to reach me : <a href="https://www.linkedin.com/in/rahul-0810-shah/">here</a>
+</p>
 <!--
 **rahulshah08/rahulshah08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
